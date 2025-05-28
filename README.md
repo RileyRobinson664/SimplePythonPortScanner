@@ -1,4 +1,4 @@
-<h1>Metasploitable 2</h1>
+<h1>Python Port Scanner</h1>
 
 <h2>Description</h2>
 This is a simple python script that acts as a port scanner. I used the video provided in the Resources section to help me make the initial version of the scanner before adding my own improvements to it.
